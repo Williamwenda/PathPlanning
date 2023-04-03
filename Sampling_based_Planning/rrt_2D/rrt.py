@@ -8,6 +8,11 @@ import sys
 import math
 import numpy as np
 
+sys.path.append(os.path.dirname(os.path.abspath(__file__)) +
+                "/../../Sampling_based_Planning/")
+
+from rrt_2D import env, plotting, utils, queue
+
 class Node:
     def __init__(self, n):
         self.x = n[0]

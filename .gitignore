@@ -1,2 +1,8 @@
 
 Sampling_based_Planning/rrt_2D/__pycache__/
+
+.vscode/
+
+CurvesGenerator/__pycache__/
+
+Search_based_Planning/Search_2D/__pycache__/

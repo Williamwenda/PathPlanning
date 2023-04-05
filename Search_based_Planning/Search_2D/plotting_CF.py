@@ -3,7 +3,6 @@ plotting script for the CF testing
 '''
 import os
 import sys
-import imageio
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
 
